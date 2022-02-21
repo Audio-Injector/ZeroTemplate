@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name AV2-8)(type KiCad)(uri "$(KIPRJMOD)/lib/AV2-8.pretty")(options "")(descr ""))
+  (lib (name pj313)(type KiCad)(uri "$(KIPRJMOD)/lib/pj313.pretty")(options "")(descr ""))
+  (lib (name 635mm)(type KiCad)(uri "$(KIPRJMOD)/lib/635mm.pretty")(options "")(descr ""))
+)
